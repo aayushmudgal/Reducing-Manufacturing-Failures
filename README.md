@@ -2,9 +2,8 @@
 ## Reducing Manufacturing Failures -  A Kaggle Challenge
 [Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
 
-[Link to Youtube Video](<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
+[Link to Youtube Video](<a href="http://www.youtube.com/watch?feature=player_embedded&v=rnvK2TIhYns" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
+
 ---
 ### Directory Structure:
 
@@ -44,11 +43,11 @@ alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
 
 ### Instructions for Installation
 
-* Download Dataset from [Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance) and unzip the files in the data/ folder
+* Download Dataset from [Link](https://www.kaggle.com/c/bosch-production-line-performance) and unzip the files in the data/ folder
 * Run any of the scripts from the scripts/ folder according to the task desired
 
 
-#### 
+####  Dependencies 
 
 * Python: 2.7.6
 * Pandas: 0.19.1
