@@ -2,7 +2,7 @@
 ## Reducing Manufacturing Failures -  A Kaggle Challenge
 [Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
 
-[Link to Youtube Video](<a href="http://www.youtube.com/watch?feature=player_embedded&v=rnvK2TIhYns" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
+[Link to Youtube Video](<a href="http://www.youtube.com/watch?feature=player_embedded&v=rnvK2TIhYns" target="_blank"><img src="http://img.youtube.com/vi/rnvK2TIhYns/0.jpg" alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
 
 ---
 ### Directory Structure:
