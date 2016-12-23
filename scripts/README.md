@@ -1,9 +1,9 @@
 
-# Reducing-Manufacturing-Failures
-## Reducing Manufacturing Failures -  A Kaggle Challenge
-[Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
+#Reducing-Manufacturing-Failures
+### Reducing Manufacturing Failures -  A Kaggle Challenge
+[Competition Link](https://www.kaggle.com/c/bosch-production-line-performance)
 
-[![Video Description](https://img.youtube.com/vi/rnvK2TIhYns/0.jpg)](https://www.youtube.com/watch?v=rnvK2TIhYns)
+[![Video Description](https://img.youtube.com/vi/GmUUIvj571Q/0.jpg)](https://www.youtube.com/watch?v=GmUUIvj571Q)
 ---
 
 # Scripts for data exploration, feauture engineering, classifier training and testing

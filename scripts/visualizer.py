@@ -17,7 +17,7 @@ sns.set_style("whitegrid", {'axes.grid' : False})
 
 # In[2]:
 
-train_categorical_iter=pd.read_csv("../input/train_categorical.csv",chunksize=100000, dtype=str,usecols=list(range(1,2141)))
+train_categorical_iter=pd.read_csv("../data/train_categorical.csv",chunksize=100000, dtype=str,usecols=list(range(1,2141)))
 train_categorical_data = collections.defaultdict(set)
 
 

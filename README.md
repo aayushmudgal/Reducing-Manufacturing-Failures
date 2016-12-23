@@ -2,7 +2,7 @@
 ## Reducing Manufacturing Failures -  A Kaggle Challenge
 [Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
 
-[Link to Youtube Video](<a href="http://www.youtube.com/watch?feature=player_embedded&v=rnvK2TIhYns" target="_blank"><img src="http://img.youtube.com/vi/rnvK2TIhYns/0.jpg" alt="Link to Youtube Video" width="240" height="180" border="10" /></a>)
+[![Video Description](https://img.youtube.com/vi/GmUUIvj571Q/0.jpg)](https://www.youtube.com/watch?v=GmUUIvj571Q)
 
 ---
 ### Directory Structure:
@@ -43,7 +43,7 @@
 
 ### Instructions for Installation
 
-* Download Dataset from [Link](https://www.kaggle.com/c/bosch-production-line-performance) and unzip the files in the data/ folder
+* Download Dataset from [Link](https://www.kaggle.com/c/bosch-production-line-performance/data) and unzip the files in the data/ folder
 * Run any of the scripts from the scripts/ folder according to the task desired
 
 
@@ -58,7 +58,7 @@
 * System-G: (systemg-tools-1.4.0) [For Visualizations] 
 * jupyter notebook : 4.2.1 with support for R and Python kernels
 
-The code have been tested on Ubuntu 14.04 LTS system. It should work well on other distributions but has not yet been tested.
+The code has been tested on Ubuntu 14.04 LTS system. It should work well on other distributions but has not yet been tested.
 
 ----
 

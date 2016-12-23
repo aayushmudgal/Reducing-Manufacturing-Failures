@@ -1,7 +1,7 @@
 
 library(data.table)
 
-data <- fread("../input/train_numeric.csv",select = c("Id", "Response"));
+data <- fread("../data/train_numeric.csv",select = c("Id", "Response"));
 data <- data[,c('Id', 'Response')];
 data$nextId = data$Id + 1;
 IdList <- data[data$nextId %in% data$Id];
