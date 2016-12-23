@@ -1,6 +1,6 @@
 # Reducing-Manufacturing-Failures
 ## Reducing Manufacturing Failures -  A Kaggle Challenge
-[Link to Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
+[Link to Kaggle Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
 
 [![Video Description](https://img.youtube.com/vi/GmUUIvj571Q/0.jpg)](https://www.youtube.com/watch?v=GmUUIvj571Q)
 
@@ -64,7 +64,8 @@ The code has been tested on Ubuntu 14.04 LTS system. It should work well on othe
 
 In case of any issue with installation or otherwise, please contact: [Aayush Mudgal](https://mudgal.ml)
 
----------------------Contributors--------------------------------
-Aayush Mudgal
-Sheallika Singh
-Vibhuti Mahajan
+---------------------
+###Contributors
+* Aayush Mudgal
+* Sheallika Singh
+* Vibhuti Mahajan
