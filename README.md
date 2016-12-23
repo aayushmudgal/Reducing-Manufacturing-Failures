@@ -64,4 +64,7 @@ The code has been tested on Ubuntu 14.04 LTS system. It should work well on othe
 
 In case of any issue with installation or otherwise, please contact: [Aayush Mudgal](https://mudgal.ml)
 
-
+---------------------Contributors--------------------------------
+Aayush Mudgal
+Sheallika Singh
+Vibhuti Mahajan
